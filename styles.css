@@ -1,0 +1,42 @@
+body{
+    background: linear-gradient(to bottom, #23965e, #1e50ac);
+    width:100vw;
+    height: 100vh;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+}
+main{
+ margin: 20px;
+ 
+}
+h1{
+ font-size: 50px;
+}
+#linklist{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
+a:hover{
+    font-style:oblique;
+}
+.linklist{
+    list-style: none;
+    margin-bottom: 7px;
+}
+#description{
+ width: 400px;
+}
+ingredients h4, steps h4{
+    margin-left: 23px;
+    margin-bottom: -6px;
+    font-size: 18px;
+}
+ingredients ul li, steps ol li{
+ margin-bottom: 3px;
+}
+footer a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+}
